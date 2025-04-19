@@ -1,3 +1,4 @@
+//Este es un metodo, aprende con la ATIS mobil
 document.getElementById('btnClick').addEventListener('click', function() {
     document.getElementById('output').textContent = '¡Botón clicado!';
 });
